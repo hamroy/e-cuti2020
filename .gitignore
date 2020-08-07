@@ -46,5 +46,5 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
-/config/
+/config
 >>>>>>> 4db24541912b056c2e5a15b90cd1d7d754a02c65
